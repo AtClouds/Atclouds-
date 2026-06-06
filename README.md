@@ -16,11 +16,11 @@ Currently, I'm improving my skills in JavaScript, React, and modern web developm
 
 ##  About Me
 
-- 🌱 Currently learning React
-- 💻 Building web applications with JavaScript
-- 🎯 Looking for internship and freelance opportunities
-- 📚 Continuously improving my front-end development skills
-- ⚡ Passionate about creating clean and responsive user interfaces
+-  Currently learning React
+-  Building web applications with JavaScript
+-  Looking for internship and freelance opportunities
+-  Continuously improving my front-end development skills
+-  Passionate about creating clean and responsive user interfaces
 
 ---
 
