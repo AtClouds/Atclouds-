@@ -44,7 +44,7 @@ Currently, I'm improving my skills in JavaScript, React, and modern web developm
 
 ##  Featured Projects
 
-### Task Management App
+### [Task Management App](https://uptodolist.netlify.app)
 A productivity-focused task management application with task organization features and an interactive user interface.
 
 ### Portfolio Website
